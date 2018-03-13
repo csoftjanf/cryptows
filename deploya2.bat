@@ -1,4 +1,4 @@
 git add .
-git commit -m "version 0.6"
+git commit -m "version 0.7"
 git push -u origin master
 
